@@ -1,4 +1,3 @@
-//change
 language: node_js
 node_js:
   - node # uses most recent stable node version
